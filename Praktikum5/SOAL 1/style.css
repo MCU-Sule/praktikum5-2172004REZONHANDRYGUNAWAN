@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(149, 164, 239);
+    border: rgb(0, 0, 0 );
+    direction: center;  
+}
+.kotak {
+    width: 80%;
+    height: 85%;
+    border: solid rgb(117,136,230);
+    background-color: rgb(117,136,230);
+    padding: 50px;
+}
+li {
+    width: 35%;
+    height: 45%;
+    border: solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    padding: 26px;
+}
+.kotak2 {
+    width: 70%;
+    height: 25%;
+    border: solid rgb(18, 36, 116);
+    background-color: rgb(18, 36, 116);
+    padding: 30px;
+}
